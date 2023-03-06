@@ -29,7 +29,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/S1xklnV"  ><a href="//imgur.com/a/S1xklnV">Flix</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://github.com/vdynak/flixter/blob/main/flixter.gif)
 
 GIF created with GIPHY  
 <!-- Recommended tools:
