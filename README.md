@@ -29,7 +29,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/S1xklnV"  ><a href="//imgur.com/a/S1xklnV">flix</a></blockquote>
 
 GIF created with GIPHY  
 <!-- Recommended tools:
