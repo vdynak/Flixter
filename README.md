@@ -2,9 +2,9 @@
 
 Submitted by: Victoria Dynak
 
-Flixter is a movie browsing app that allows you to view the poster of the movie, view its description, and learn about its popualarity based on the vote count and vote average.
+Flixter is a movie browsing app that allows you to view the poster of the movie, view its description, and learn about its popularity based on the vote count and vote average.
 
-Time spent: 10 hours spent in total
+Time spent: 6
 
 ## Required Features
 
