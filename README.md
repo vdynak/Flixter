@@ -1,29 +1,14 @@
-# Project 2 - Flixter
-
-Submitted by: Victoria Dynak
+# Flixter
 
 Flixter is a movie browsing app that allows you to view the poster of the movie, view its description, and learn about its popularity based on the vote count and vote average.
 
-Time spent: 6
-
-## Required Features
-
-The following **required** functionality is completed:
+## Features
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
 - [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
- 
-The following **optional** features are implemented:
-
+- [x] Can tap into a detailed view of the movie with a full description, backdrop image, and title
 - [x] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implements tab bar controller with at least two screens
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 Video Walkthrough
 
